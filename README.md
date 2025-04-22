@@ -6,3 +6,9 @@ Olá pra você que escolheu esse repositório! Nessa repositório você vai enco
 ## [⚠Me Ajude](https://www.youtube.com/channel/UCxKIsX5OXyyNWVmomuDc-LA?sub_confirmation=1)
 # Preview
 ![Como-Criar-um-SITE-Com-HTML-e-CSS-na-prática](/Como-Criar-um-SITE-Com-HTML-e-CSS-na-prática.png)
+
+# 1. Para Criar o Script
+terá que adicionar esse comando [sudo nano script.sh] para abrir o editor de texto: 
+# 2. Agora dentro do [nano] usamos os seguintes comandos para declarar que esse arquivo é um script.
+#!bin/bash
+if
